@@ -17,8 +17,7 @@ import javax.annotation.Generated;
 /**
  * Todo
  */
-
-@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2024-08-29T16:58:08.517994600+07:00[Asia/Saigon]")
+@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2024-08-30T16:52:58.636913200+07:00[Asia/Saigon]")
 public class Todo   {
 
   @JsonProperty("id")
